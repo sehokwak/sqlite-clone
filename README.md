@@ -11,4 +11,6 @@ git clone  https://github.com/sehokwak/sqlite-clone.git
 Run:
 ```
 make db
+./db pathtoyour.db
 ```
+
